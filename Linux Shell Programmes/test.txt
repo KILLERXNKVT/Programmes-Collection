@@ -1,0 +1,2 @@
+Hai linux shell is a command line interpreter and typical operations performed by shell scripts
+INCLUDE FILE MANIPULATION, PROGRAM EXECUTION, AND PRINTING TEXT.

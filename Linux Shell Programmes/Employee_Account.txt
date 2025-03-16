@@ -1,0 +1,6 @@
+
+Richu  Ceo        Account 10000000
+Kavya  Manager    Account 5000000
+Don    Director   Account 3000000
+Abin   Controller Account 1000000
+Dalvin Clerk      Account 500000

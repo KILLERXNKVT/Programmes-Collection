@@ -1,0 +1,31 @@
+/*ALGORITHM
+Step 1:start
+Step 2:read number of vertices in the graph and assign to n
+Step 3:read adjacency matrix
+Step 4:find indegree of each vertex
+Step 5:set count=0
+Step 6:add vertex v to array and increment count
+Step 7:delete all edges going from vertex v
+Step 8:if count<n then print no topological ordering possibile,graph contain cycle
+Step 9:else print array ,topological order of graph
+Step 10:stop*/
+
+
+Enter number of vertices:3
+
+Enter adjcency matrix row 1:
+0
+0
+0
+
+Enter adjcency matrix row 2:
+1
+1
+1
+
+Enter adjcency matrix row 3:
+0
+1
+0
+
+No topological ordering possible,graph contains cycle

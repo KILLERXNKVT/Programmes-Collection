@@ -1,0 +1,83 @@
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+1
+enter the data:11
+do yo want to continue(1/0):
+1
+enter the data:22
+do yo want to continue(1/0):
+1
+enter the data:33
+do yo want to continue(1/0):
+0
+11      22      33      the number of nodes is: 3
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+2
+enter the data to be inserted:
+44
+44      11      22      33      the number of nodes is: 4
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+3
+enter the position after which the elemnt should inserted:      2
+enter the data:55
+44      11      55      22      33      the number of nodes is: 5
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+3
+enter the position after which the elemnt should inserted:      2
+enter the data:66
+44      11      66      55      22      33      the number of nodes is: 6
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+1
+enter the data:11
+do yo want to continue(1/0):
+0
+11      the number of nodes is: 1
+enter the choice
+1:creation
+2:insert beg
+3:insert mid
+4:insert end
+5:delete beg
+6:delete mid
+7:delete end
+8:exit
+8

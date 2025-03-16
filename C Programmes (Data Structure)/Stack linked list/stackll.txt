@@ -1,0 +1,84 @@
+/*ALGORITHM
+Step 1:start
+Step 2:Define a structure ‘node’ with two member val and next
+Step 3:Define a node pointer head
+Step 4:enter the choice
+Step 5:if choice==1 then do push operation
+Step 6: if choice==2 then do pop operation
+Step 7:if choice==3 then display linked list
+Step 8:if choice==4 then exit
+Step 9:stop
+
+Push operation
+Step 1:start
+Step 2:create a new node
+Step 3:if(head==NULL) then
+Step 4:ptr->val=val
+Step 5:ptr->next=NULL
+Step 6:head=ptr
+Step 7:else
+Step 8:ptr->val = val
+Step 9:ptr->next = head
+Step 10:head=ptr
+Step 11:print item pushed
+Step 12:stop
+
+Pop operation
+Step 1:start
+Step 2:if(head==NULL) then
+Step 3:print underflow
+Step 4:else
+Step 5:item = head->val
+Step 6:ptr = hea
+Step 7:head = head->next
+Step 8:free(ptr)
+Step 9:print Item popped
+Step 10:stop
+
+Display linked list
+Step 1:start
+Step 2:if (ptr==NULL) then
+Step 3:print stack is empty
+Step 4:else
+Step 5:while(ptr!=NULL)
+Step 6:print the elments in the stack
+Step 7:stop*/
+
+
+enter the choice
+1:push
+2:pop
+3:peek
+4:exit
+1
+enter the data to be pushed:    11
+do you want to continue:(1/0)
+1
+enter the data to be pushed:    22
+do you want to continue:(1/0)
+1
+enter the data to be pushed:    33
+do you want to continue:(1/0)
+0
+
+the stack is:   33      22      11      enter the choice
+1:push
+2:pop
+3:peek
+4:exit
+2
+
+the poped element is 33
+
+the stack is:   22      11      enter the choice
+1:push
+2:pop
+3:peek
+4:exit
+3
+the element at top of stack is 22enter the choice
+1:push
+2:pop
+3:peek
+4:exit
+4

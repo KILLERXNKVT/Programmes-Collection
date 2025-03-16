@@ -1,0 +1,91 @@
+/*ALGORITHM
+step 1:start
+step 2:define a structure node
+step 3:initialize value and pointers *l, *r,*t1,*t2 and assign *temp=NULL,*root=NULL
+step 4:read the choice
+step 5:if choice=1 then call insert()
+step 6:if choice=2 then call delete()
+step 7:if choice=3 then call inorder()
+step 8:if choice=4 then call preorder()
+step 9:if choice=5 then call postorder()
+step 10:if choice=6 then exit
+step 11:default print “wrong choice”
+step 12:stop
+
+To create a node
+Step 1:start
+Step 2:read value of node and asign to data
+Step 3:temp->value=data
+Step 4:temp->i=temp->r=NULL
+Step 5:stop
+
+insert a node in the tree
+step 1:start
+step 2:call create()
+step 3:if(root== NULL) then root=temp
+step 4:else
+step 5:if ((temp->value > t->value) && (t->r != NULL)) then insert newnode right of
+the root, search(t->r)
+step 6:else if ((temp->value > t->value) && (t->r == NULL))
+t->r = temp
+step 7:else if ((temp->value < t->value) && (t->l != NULL)) then insert newnode left
+of the root, search(t->l)
+step 8:else if ((temp->value < t->value) && (t->l == NULL))
+t->l = temp
+step 9:stop
+
+inorder traversal of tree
+step 1: start
+step 2:if(root==NULL) then exit no elements in the tree
+step 3:if(t->l != NULL) then
+step 4:inorder(t->l)
+step 5:print t->value
+step 6:if (t->r != NULL)
+step 7:inorder(t->r)
+step 8:stop
+
+delete a node
+step 1:start
+step 2:if (root == NULL) then exit tree is empty
+step 3:read the data to be deleted and assign to data
+step 4:t1 = root,t2 = root
+step 5:search1(root, data)
+step 6:stop
+
+preorder traversal of tree
+step 1:start
+step 2:if (root == NULL) then exit tree is empty
+step 3:print t->value
+step 4:if (t->l != NULL) then preorder(t->l)
+step 5:if (t->r != NULL) then preorder(t->r)
+step 6:stop
+
+postorder traversal of tree
+step 1:start
+step 2:if (root == NULL) then exit tree is empty
+step 3:if (t->l != NULL) then postorder(t->l)
+step 4:if (t->r != NULL) then postorder(t->r)
+step 5:print t->value
+step 6:stop*/
+
+
+OPERATIONS ---
+1 - Insert an element into tree
+2 - Delete an element from the tree
+3 - Inorder Traversal
+4 - Preorder Traversal
+5 - Postorder Traversal
+6 - Exit
+
+Enter your choice : 1
+Enter data of node to be inserted : 5
+
+Enter your choice : 1
+Enter data of node to be inserted : 2
+
+Enter your choice : 1
+Enter data of node to be inserted : 7
+
+Enter your choice : 3
+2 -> 5 -> 7 ->
+Enter your choice : 6

@@ -1,0 +1,71 @@
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice1
+
+Enter the element to be inserted on stack:22
+The item 22 is pushed successfully!!!
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice1
+
+Enter the element to be inserted on stack:6
+The item 6 is pushed successfully!!!
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice1
+
+Enter the element to be inserted on stack:14
+The item 14 is pushed successfully!!!
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice2
+
+Item 14 is popped out
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice3
+The top element is 6
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice4
+
+The Given Stack is:
+22      6
+Stack operations
+---------------------
+1.PUSH
+2.POP
+3.PEEK
+4.TRAVERSAL
+5.EXIT
+Enter your choice5

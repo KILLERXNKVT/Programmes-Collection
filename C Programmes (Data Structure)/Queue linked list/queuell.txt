@@ -1,0 +1,33 @@
+enter the choice
+1:enqueue
+2:dequeue
+3:peek
+4:exit
+1
+enter the data: 11
+do you want to continue:(1/0)   1
+enter the data: 22
+do you want to continue:(1/0)   1
+enter the data: 33
+do you want to continue:(1/0)   0
+11      22      33      enter the choice
+1:enqueue
+2:dequeue
+3:peek
+4:exit
+2
+the element deleted is 11
+22      33      enter the choice
+1:enqueue
+2:dequeue
+3:peek
+4:exit
+3
+the front element is: 22
+the rear element is: 33
+enter the choice
+1:enqueue
+2:dequeue
+3:peek
+4:exit
+4

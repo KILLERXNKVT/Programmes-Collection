@@ -1,0 +1,41 @@
+/*ALGORITHM
+Step 1:start
+Step 2:read the size of array1
+Step 3:enter the elements of array1
+Step 4:read the size of second array
+Step 5:enter the elements of array2
+Step 6:initialize i=0,j=0
+Step 7:while(i<m&&j<n)
+Step 8:if(arr1[i]<arr[j][) then
+Step 9: array3[k] = array1[i] and increment i
+Step 10:else
+Step 11: array3[k] = array1[j] and increment j
+Step 12:increment k
+Step 13:if(i>=m) then
+Step 14:while(j<n)
+Step 15: array3[k] = array1[j] and increment j&k
+Step 16:if(j>=n) then
+Step 17: array3[k] = array1[i] and increment i&k
+Step 18:print the array after merging
+Step 19:stop*/
+
+
+Enter size of array1:4
+
+Enter sorted elements of array1:
+1 2 3 4
+
+Enter size of array2:3
+
+Entersortedelementsofarray2:
+5 6 7
+
+After merging:
+
+1
+2
+3
+4
+5
+6
+7
